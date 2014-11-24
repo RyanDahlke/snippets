@@ -2,3 +2,7 @@ INFO:root:Writing 'spam':'eggs' to 'snippets.csv'
 DEBUG:root:Opening file
 INFO:root:Writing 'green eggs':'ham' to 'snippets.csv'
 DEBUG:root:Opening file
+INFO:root:Writing 'spam':'eggs' to 'snippets.csv'
+DEBUG:root:Opening file
+INFO:root:Writing 'green eggs':'ham' to 'snippets.csv'
+DEBUG:root:Opening file
